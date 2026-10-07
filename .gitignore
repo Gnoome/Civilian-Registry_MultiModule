@@ -1,0 +1,19 @@
+# Maven build output
+target/
+
+# Compiled files
+*.class
+*.jar
+*.war
+
+# IDE / editor
+.vscode/
+.idea/
+*.iml
+
+# Tooling
+.github/modernize/
+
+# OS
+Thumbs.db
+.DS_Store
